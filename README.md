@@ -1,4 +1,4 @@
-# Pasky - Passkey Authentication Application
+# Passkey Authentication Application
 
 A simple authentication application using WebAuthn passkeys, built with React (TypeScript) frontend and Django 5.2 backend.
 
